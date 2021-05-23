@@ -48,8 +48,8 @@ degrees:
     - name: Machine Learning
     - name: Deep Learning
     - name: Cloud Computing
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
+  #extracurricularActivities: #(optional)
+  #- In vitae facilisis est, eget porta sem.
 
 - name: "CPGE MPSI : Preparatory Class for entrance to Grandes Ecole in Mathematics, Physics, and Engineer Science"
   icon: fa-university

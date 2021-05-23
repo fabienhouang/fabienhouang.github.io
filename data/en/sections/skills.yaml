@@ -24,7 +24,7 @@ skills:
 
 - name: C++
   logo: "/images/sections/skills/CXX_logo.svg"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Know advance C/C++ programming. Used for product performance optimization."
   url: "https://en.cppreference.com/"
 
 - name: DBMS
