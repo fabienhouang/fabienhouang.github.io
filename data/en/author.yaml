@@ -1,8 +1,8 @@
 # some information about you
 name: "Fabien Houang"
-nickname: "Fabien"
+nickname: "Fabien!"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Hi, I'm"
 image: "images/author/fabien.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -11,9 +11,10 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Software Engineer
-  - I am a Data Engineer
-  - I am a Data Scientist
-  - I love automation and optimization
-  - I love speed and accuracy
-  - I love to work on fun projects
+  - Nice to meet you!
+  - I am a software and data engineer.
+  - Welcome to my page.
+  - Feel free to contact me!
+#  - I love automation and optimization
+#  - I love speed and accuracy
+#  - I love to work on fun projects
