@@ -57,7 +57,7 @@ params:
   # GitHub repo of your site
   gitRepo: https://github.com/fabienhouang/fabienhouang.github.io
   # Default branch of your Git repo
-  gitBranch: main
+  gitBranch: source
 
   # Configure various features of this theme
   features:
