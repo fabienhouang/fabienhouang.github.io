@@ -21,7 +21,7 @@ resume: "files/Houang_Fabien_CV.pdf"
 summary: 'I am a passionate software engineer with 2 years of working experience.
 I am currently an Agile Data Engineer at [SFEIR](https://www.sfeir.com/) Paris. I love automation and optimization.
 I am also a Data Science enthusiast. I work on some fun Machine Learning projects on my spare time.
-I’m always seeking for best performance and accuracy. Feel free to contact me!'
+I’m always seeking for best performance. Feel free to contact me!'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -46,15 +46,15 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 badges:
-#- type: certification
-#  name: Certified Kubernetes Security Specialist
-#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+- type: certification
+  name: Google Cloud Certified Professional Data Engineer
+  url: "https://www.credential.net/b60c9856-51a3-4186-b283-12c31e2040af"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35560265"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 100
-  color: blue
+#- type: soft-skill-indicator
+#  name: Leadership
+#  percentage: 100
+#  color: blue
 
 - type: soft-skill-indicator
   name: Team Work

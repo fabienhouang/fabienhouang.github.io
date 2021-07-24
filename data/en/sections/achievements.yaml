@@ -10,10 +10,14 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Graduation
+- title: Graduated from EPITA
   image: /images/sections/achievements/graduation.jpg
-  summary: Received Master of Science (M.Sc.) in Computer Science and Engineering from EPITA University.
+  summary: Received Master of Science (M.Sc.) in Computer Science and Engineering from EPITA University in France, 2019.
+
+- title: Certified Professional Data Engineer
+  image: /images/sections/achievements/Certif_DE_GCP_FH.PNG
+  summary: Certified Professional Data Engineer on Google Cloud in 2021.
 
 #- title: IronCar France Competition
-  #image: #/images/sections/achievements/
-  #summary: Received Master of Science (M.Sc.) in Computer Science and Engineer from EPITA University.
+  #image: /images/sections/achievements/
+  #summary: Ranked 3rd/20 on IronCar France, Summer Race (Self-Driving Car) in 2018.
