@@ -15,7 +15,7 @@ company:
   url: "https://www.sfeir.com/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Houang_Fabien_CV.pdf"
+resume: "files/Houang_Fabien_resume.pdf"
 
 # a summary about you
 summary: 'I am a passionate software engineer with 2 years of working experience.
