@@ -19,7 +19,7 @@ skills:
 
 - name: Cloud Computing on GCP
   logo: "/images/sections/skills/GCP_logo.svg"
-  summary: "Worked with GCP services. Familiar with Compute Engine, Cloud Storage, Cloud Run, Cloud SQL, App Engine, BigQuery."
+  summary: "Worked with cloud provider Google Cloud Platform. Familiar with most of the data oriented GCP services."
   url: "https://cloud.google.com/"
 
 - name: C++
