@@ -51,15 +51,19 @@ badges:
   url: "https://www.credential.net/b60c9856-51a3-4186-b283-12c31e2040af"
   badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35560265"
 
+- type: certification
+  name: Google Cloud Certified Professional Cloud Architect
+  url: "https://www.credential.net/a1730ca9-dc69-49b7-ad0a-406da147eedd"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/63463982"
 #- type: soft-skill-indicator
 #  name: Leadership
 #  percentage: 100
 #  color: blue
 
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 100
-  color: yellow
+#- type: soft-skill-indicator
+#  name: Team Work
+#  percentage: 100
+#  color: yellow
 
 - type: soft-skill-indicator
   name: Communication
