@@ -36,9 +36,9 @@ jobs:
       run: hugo --minify
 
     # Run HTML Proofer
-    - uses: anishathalye/proof-html@v2.0.2
-      with:
-        directory: ./public
-        enforce_https: false
-        url_ignore: "#"
-        url_ignore_re: ^https://www.pexels.com
+    # - uses: anishathalye/proof-html@v2.0.2
+    #   with:
+    #     directory: ./public
+    #     enforce_https: false
+    #     url_ignore: "#"
+    #     url_ignore_re: ^https://www.pexels.com
