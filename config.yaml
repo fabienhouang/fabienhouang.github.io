@@ -77,7 +77,7 @@ params:
       enable: true
       services:
         darkreader:
-          defaultColorScheme: system # options are 'system', 'dark', 'light'
+          defaultColorScheme: light # options are 'system', 'dark', 'light'
           fixes:
             invert: ['img[src$=".svg"]'] # inverts svg colors.
           theme:
@@ -166,7 +166,7 @@ params:
       enable: false
       services:
         kofi:
-          user: hossainemruz
+          user: fabhou
           text: Tip Me
           textColor: '#f9fafc'
           backgroundColor: '#248aaa'
