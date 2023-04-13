@@ -6,7 +6,16 @@ updates:
 - package-ecosystem: "gitsubmodule"
   directory: "/"
   schedule:
-    interval: "daily"
+    interval: "weekly"
+  labels:
+  - "dependencies"
+  - "automerge"
+
+# Update the Github Action versions
+- package-ecosystem: "github-actions"
+  directory: "/"
+  schedule:
+    interval: "weekly"
   labels:
   - "dependencies"
   - "automerge"

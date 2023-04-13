@@ -29,7 +29,6 @@ experiences:
     for IaC and [Cloud Workflows](https://cloud.google.com/workflows) to orchestrate and automate processing steps"
     - Stored processed data and created views in [BigQuery](https://cloud.google.com/bigquery) for [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) Data Visualization Dashboards
     - Expose data through API implemented with [Flask](https://flask.palletsprojects.com), running on [Cloud Run](https://cloud.google.com/run)
-    - Certified [Professional Data Engineer on Google Cloud](https://www.credential.net/b60c9856-51a3-4186-b283-12c31e2040af)
 
 - company:
     name: SIEMENS HEALTHINEERS
