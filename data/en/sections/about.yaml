@@ -63,6 +63,11 @@ badges:
   url: "https://google.accredible.com/ed62c6d2-8e3c-478b-bef1-508c117dd10d"
   badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/71712460"
 
+- type: certification
+  name: Google Cloud Certified Professional Cloud DevOps Engineer
+  url: "https://google.accredible.com/6e09e83b-5564-4eb8-aeda-d932537f84fd"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72759208?key=70a2ab9c9c174fe2d8699d06b29e738f1e230a045e04c640a6d2f97a614a7e6c"
+
 # - type: soft-skill-indicator
 #   name: Leadership
 #   percentage: 100
@@ -78,10 +83,10 @@ badges:
 #   percentage: 100
 #   color: pink
 
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 100
-  color: green
+#- type: soft-skill-indicator
+#  name: Hard Working
+#  percentage: 100
+#  color: green
 
 - type: soft-skill-indicator
   name: Fast Learner
