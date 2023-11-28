@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Engineer
+designation: Data / AI / ML Engineer
 # your company information
-company:
-  name: [SFEIR]
-  url: "https://www.sfeir.com/"
+#company:
+#  name: [SFEIR]
+#  url: "https://www.sfeir.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resourceLinks:
@@ -20,10 +20,14 @@ resourceLinks:
   url: "files/Houang_Fabien_resume.pdf"
 
 # a summary about you
-summary: "I am a passionate software engineer with 4 years of working experience.
-I am currently an Agile Data Engineer at [SFEIR](https://www.sfeir.com/) Paris. I love automation and optimization.
-I am also a Data Science enthusiast. I work on some fun Machine Learning projects on my spare time.
-I'm always seeking for best performance. Feel free to contact me!"
+summary: "
+As a Data / ML Engineer, I help clients leverage the power of data and AI to solve complex problems and create value.\n\n
+
+I have several Google Cloud certifications, including Professional Data Engineer, Cloud Architect, and Machine Learning Engineer,
+which demonstrate my proficiency and expertise in cloud-based data engineering and machine learning solutions.\n\n
+
+I am passionate about data and AI, and I always seek to expand my knowledge and skills in this fast-growing field.\n\n
+Let's connect and explore data and AI innovations together!"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -66,7 +70,22 @@ badges:
 - type: certification
   name: Google Cloud Certified Professional Cloud DevOps Engineer
   url: "https://google.accredible.com/6e09e83b-5564-4eb8-aeda-d932537f84fd"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72759208?key=70a2ab9c9c174fe2d8699d06b29e738f1e230a045e04c640a6d2f97a614a7e6c"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72759208"
+
+- type: certification
+  name: Google Cloud Certified Professional Cloud Database Engineer
+  url: "https://google.accredible.com/dc483d08-dc2f-4d28-b9ac-2ed035452cc9"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83211797"
+
+- type: certification
+  name: Google Cloud Certified Professional Cloud Security Engineer
+  url: "https://google.accredible.com/705e451a-e264-4e29-8890-cb92ecc2214f"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85758948"
+
+- type: certification
+  name: Google Cloud Certified Professional Cloud Developer
+  url: "https://google.accredible.com/5bf94678-ae64-4a10-961c-096b08935e30"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87066110"
 
 # - type: soft-skill-indicator
 #   name: Leadership

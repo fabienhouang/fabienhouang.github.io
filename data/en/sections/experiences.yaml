@@ -6,7 +6,7 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
@@ -21,14 +21,18 @@ experiences:
   - designation: Data Engineer
     start: May 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Sep 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Worked on a contract for their client [L'Oreal](https://www.loreal.com/en/) and collaborated on an agile work environment
+    - Worked on a contract for their client [L'Oreal](https://www.loreal.com/en/) and collaborated on an agile work environment for 2+ years
     - "Created data processing pipelines on [Google Cloud Platform](https://cloud.google.com/) using [Terraform](https://www.terraform.io/)
-    for IaC and [Cloud Workflows](https://cloud.google.com/workflows) to orchestrate and automate processing steps"
-    - Stored processed data and created views in [BigQuery](https://cloud.google.com/bigquery) for [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) Data Visualization Dashboards
+    to deploy infrastructures as code"
+    - Configured [Cloud Workflows](https://cloud.google.com/workflows) and [Cloud Scheduler](https://cloud.google.com/scheduler) to orchestrate and automate processing steps
+    - Stored processed data in tables and created views in [BigQuery](https://cloud.google.com/bigquery)
+    - Collaborated with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) developpers to feed data into Data Visualization Dashboards
     - Expose data through API implemented with [Flask](https://flask.palletsprojects.com), running on [Cloud Run](https://cloud.google.com/run)
+    - Setup authentication through Azure Active Directory and [Apigee](https://cloud.google.com/apigee) to access data from GCP
+    - Created and maintained technical documentation on [Confluence](www.atlassian.com/software/confluence)
 
 - company:
     name: SIEMENS HEALTHINEERS
