@@ -87,6 +87,11 @@ badges:
   url: "https://google.accredible.com/5bf94678-ae64-4a10-961c-096b08935e30"
   badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87066110"
 
+- type: certification
+  name: Google Cloud Certified Professional Cloud Network Engineer
+  url: "https://google.accredible.com/4b146a2c-09d8-4578-9efc-60fe7840a5c0"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/89113749"
+
 # - type: soft-skill-indicator
 #   name: Leadership
 #   percentage: 100
@@ -107,10 +112,10 @@ badges:
 #  percentage: 100
 #  color: green
 
-- type: soft-skill-indicator
-  name: Fast Learner
-  percentage: 100
-  color: sky
+#- type: soft-skill-indicator
+#  name: Fast Learner
+#  percentage: 100
+#  color: sky
 
 - type: soft-skill-indicator
   name: Problem Solving
