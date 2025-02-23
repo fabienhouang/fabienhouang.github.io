@@ -19,7 +19,13 @@ sudo apt install golang-go
 sudo apt install nodejs npm
 ```
 
-##### 1. Generate node dependency configuration
+##### 1. Load Hugo modules
+
+```bash
+hugo mod tidy
+```
+
+##### 2. Generate node dependency configuration
 
 Now run the following command to generate node dependency configuration. This will create the a `package.json` file in you repo.
 
@@ -27,7 +33,7 @@ Now run the following command to generate node dependency configuration. This wi
 hugo mod npm pack
 ```
 
-##### 2. Install dependencies
+##### 3. Install dependencies
 
 Install the node dependencies using following command:
 
@@ -36,7 +42,7 @@ Install the node dependencies using following command:
 npm install
 ```
 
-##### 3. Run your site
+##### 4. Run your site
 
 Now, run you site locally using following command.
 

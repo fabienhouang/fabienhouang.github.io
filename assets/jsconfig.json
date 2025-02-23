@@ -3,7 +3,7 @@
   "baseUrl": ".",
   "paths": {
    "*": [
-    "../../../../../var/folders/4l/sxc0gcns7x3fkxj30_m_bq9h0000gp/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.0.0-20230127171959-e5fcc95e8b8d/assets/*"
+    "../../../../../../../home/fabhou/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.8.0/assets/*"
    ]
   }
  }
