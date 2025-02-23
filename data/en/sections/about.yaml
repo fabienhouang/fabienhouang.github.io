@@ -36,6 +36,10 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "houang.fabien@gmail.com"
 
+- name: Calendly
+  icon: "fa fa-calendar-days"
+  url: "https://calendly.com/houang-fabien/30min"
+
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/fabien-houang"
@@ -92,6 +96,11 @@ badges:
   url: "https://google.accredible.com/4b146a2c-09d8-4578-9efc-60fe7840a5c0"
   badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/89113749"
 
+- type: certification
+  name: Google Cloud Certified Cloud Digital Leader
+  url: "https://www.credly.com/badges/0e77eb34-9bee-4536-8a92-62c055e5be81/public_url"
+  badge: "https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png"
+
 # - type: soft-skill-indicator
 #   name: Leadership
 #   percentage: 100
@@ -117,7 +126,7 @@ badges:
 #  percentage: 100
 #  color: sky
 
-- type: soft-skill-indicator
-  name: Problem Solving
-  percentage: 100
-  color: orange
+#- type: soft-skill-indicator
+#  name: Problem Solving
+#  percentage: 100
+#  color: orange

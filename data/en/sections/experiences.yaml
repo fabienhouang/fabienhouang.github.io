@@ -11,12 +11,37 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: SFEIR
-    url: "https://www.sfeir.com/"
+    name: Groupe Rocher
+    url: "https://groupe-rocher.com/en"
     location: Paris, France
     # company overview
-    overview: "SFEIR is a well known company for its consulting and software development services in France.
-    They have multiple field of activity in tech : Front, Back, Cloud, Data and Machine Learning"
+    overview: "Groupe Rocher is a French multinational company known for its expertise in natural beauty and personal care products.
+    Founded in 1959 by Yves Rocher, the company focuses on creating eco-friendly, plant-based products for skincare, hair care, and fragrances.
+    Groupe Rocher is committed to sustainability and responsible sourcing, with an emphasis on using botanical ingredients and reducing its environmental impact.
+    Its brands, including Yves Rocher, Arbonne, and Stanhome, are recognized for their high-quality formulations and commitment to environmental and social responsibility."
+  positions:
+  - designation: Senior Data Engineer
+    start: Jan 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Oct 2024
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Created data processing pipelines on [Google Cloud Platform](https://cloud.google.com/) using [Cloud Composer](https://cloud.google.com/composer) as orchestrator
+    - Stored batch and streaming data from [Dataflow](https://cloud.google.com/products/dataflow) in [BigQuery](https://cloud.google.com/bigquery) tables
+    - Processed 10+ TB of Consumers and Sales data (Data about consumers, fidelity program, welcome offers, mobile app, digital wallets, client activity, store/online sales, ...) to extract valuable data for business needs
+    - Created SQL scripts in [BigQuery](https://cloud.google.com/bigquery) and optimized legacy codes
+    - Collaborated with different teams to receive data on [Google Cloud Platform](https://cloud.google.com/) and send computed data to feed applications
+    - Created and maintained technical documentation on [Confluence](www.atlassian.com/software/confluence)
+
+- company:
+    name: L'Oreal
+    url: "https://www.loreal.com/en/"
+    location: Paris, France
+    # company overview
+    overview: "L'Oréal is a global leader in the beauty and cosmetics industry, known for its wide range of products in skincare, hair care, makeup, and fragrance.
+    Founded in 1909, the French multinational company has grown to include a portfolio of iconic brands like Lancôme, Maybelline, Garnier, and Kiehl's.
+    L'Oréal is committed to innovation, diversity, and sustainability, offering high-quality products that cater to a variety of consumer needs across the globe.
+    With a focus on research and development, L'Oréal continues to shape the beauty industry while promoting inclusivity and environmental responsibility."
   positions:
   - designation: Data Engineer
     start: May 2021
@@ -24,9 +49,11 @@ experiences:
     end: Sep 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Worked on a contract for their client [L'Oreal](https://www.loreal.com/en/) and collaborated on an agile work environment for 2+ years
+    - "Worked on [L'Oreal Beauty Tech Data Platform](https://cloud.google.com/blog/products/serverless/loreal-combines-google-cloud-serverless-and-data-offerings?hl=en)
+    and collaborated on an agile work environment for 2+ years"
     - "Created data processing pipelines on [Google Cloud Platform](https://cloud.google.com/) using [Terraform](https://www.terraform.io/)
     to deploy infrastructures as code"
+    - Processed 10+ TB of Sourcing data (Data about suppliers, contracts, compliances, raw materials, spends, ...) to extract valuable data for business needs
     - Configured [Cloud Workflows](https://cloud.google.com/workflows) and [Cloud Scheduler](https://cloud.google.com/scheduler) to orchestrate and automate processing steps
     - Stored processed data in tables and created views in [BigQuery](https://cloud.google.com/bigquery)
     - Collaborated with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) developpers to feed data into Data Visualization Dashboards
@@ -38,8 +65,9 @@ experiences:
     name: SIEMENS HEALTHINEERS
     url: "https://www.corporate.siemens-healthineers.com/"
     location: Princeton, New Jersey, USA
-    overview: "Siemens Healthineers is a known company for their products, services, and solutions that help physicians, medical staff, and healthcare providers to prevent illnesses
-    from occurring and correctly diagnose and determine the right treatments for people who do become ill, helping them to recover faster."
+    overview: "Siemens Healthineers is a global healthcare technology company that focuses on medical imaging, laboratory diagnostics, and healthcare IT solutions.
+    A subsidiary of Siemens AG, it provides innovative products and services designed to improve patient care, enhance the efficiency of healthcare systems, and drive advancements in medical science.
+    Siemens Healthineers offers a broad portfolio of technologies, including diagnostic imaging, point-of-care testing, and digital health solutions, and plays a key role in shaping the future of healthcare through its cutting-edge technologies and global reach."
   positions:
   - designation: Research Engineer
     start: March 2019
