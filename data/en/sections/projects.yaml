@@ -2,7 +2,7 @@
 section:
   name: Projects
   id: projects
-  enable: false
+  enable: true
   weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -21,14 +21,24 @@ buttons:
 
 # your projects
 projects:
-#- name: Kubernetes
-#  logo: /images/sections/projects/kubernetes.png
-#  role: Contributor
-#  timeline: "March 2018 - Present"
-#  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-#  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-#  summary: Production-Grade Container Scheduling and Management.
-#  tags: ["professional", "kubernetes", "cloud"]
+- name: Vision Vendor
+  logo: /images/sections/projects/visionvendor.png
+  role: Owner
+  timeline: "Jun 2024 - Aug 2024"
+  repo: https://github.com/fabienhouang/VisionVendor # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "A mobile app enhancing online reselling experience.
+  Submitted to [Gemini API Developer Competition 2024](https://ai.google.dev/competition/projects/vision-vendor)."
+  tags: ["hobby", "mobile", "flutter", "dart", "GCP", "Gemini AI"]
+
+- name: Autonomous Racing Car
+  logo: /images/sections/projects/F1.svg
+  role: Owner
+  timeline: "Apr 2018 - Feb 2019"
+  #repo: https://gitlab.com/AutoCar_PFE_SCIA_2019
+  url: https://www.mondedesgrandesecoles.fr/les-etudiants-de-lepita-terminent-3e-dironcar-france-championnat-de-mini-voitures-autonomes/
+  summary: An Autonomous RC Car for racing with AI model running on Raspberry Pi 3, competing in [IronCar competition](https://www.youtube.com/watch?v=eZdYGRYiTCU).
+  tags: ["academic", "python", "raspberry pi", "deep learning"]
 
 #- name: Tensorflow
 #  logo: /images/sections/projects/tensorflow.png
