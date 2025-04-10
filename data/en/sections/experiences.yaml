@@ -26,6 +26,8 @@ experiences:
     end: Oct 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
+    - Contributed on building a data platform to process Consumers’ data on GCP
+    - Extracted and computed relevant metrics to drive business decisions
     - Created data processing pipelines on [Google Cloud Platform](https://cloud.google.com/) using [Cloud Composer](https://cloud.google.com/composer) as orchestrator
     - Stored batch and streaming data from [Dataflow](https://cloud.google.com/products/dataflow) in [BigQuery](https://cloud.google.com/bigquery) tables
     - Processed 10+ TB of Consumers and Sales data (Data about consumers, fidelity program, welcome offers, mobile app, digital wallets, client activity, store/online sales, ...) to extract valuable data for business needs
@@ -49,6 +51,7 @@ experiences:
     end: Sep 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
+    - Collaborated on building data platform for Sourcing domain-specific data, to ingest and process suppliers, spending, and contracts data on Google Cloud Platform
     - "Worked on [L'Oreal Beauty Tech Data Platform](https://cloud.google.com/blog/products/serverless/loreal-combines-google-cloud-serverless-and-data-offerings?hl=en)
     and collaborated on an agile work environment for 2+ years"
     - "Created data processing pipelines on [Google Cloud Platform](https://cloud.google.com/) using [Terraform](https://www.terraform.io/)
