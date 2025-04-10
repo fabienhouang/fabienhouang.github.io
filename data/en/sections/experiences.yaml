@@ -76,7 +76,7 @@ experiences:
     start: March 2019
     end: March 2020
     responsibilities:
-    - Collaborated on 3D cardiac chambers modelization project using 3D ultrasounds
+    - Collaborated on Deep Learning project for real-time 3D cardiac chambers modelization using 3D ultrasounds time series medical data
     - Trained [Multi-Agent Deep Reinforcement Learning](https://comaniciu.net/Papers/MultiscaleDeepReinforcementLearning_PAMI18.pdf) for landmarks detection
     - Implemented and trained 3D volumes classification models on unbalanced dataset
     - Optimized production code speed and optimized models hyper-parameters
