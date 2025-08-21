@@ -60,7 +60,7 @@ experiences:
     - Configured [Cloud Workflows](https://cloud.google.com/workflows) and [Cloud Scheduler](https://cloud.google.com/scheduler) to orchestrate and automate processing steps
     - Stored processed data in tables and created views in [BigQuery](https://cloud.google.com/bigquery)
     - Collaborated with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) developpers to feed data into Data Visualization Dashboards
-    - Expose data through API implemented with [Flask](https://flask.palletsprojects.com), running on [Cloud Run](https://cloud.google.com/run)
+    - Exposed data through API implemented with [Flask](https://flask.palletsprojects.com), running on [Cloud Run](https://cloud.google.com/run)
     - Setup authentication through Azure Active Directory and [Apigee](https://cloud.google.com/apigee) to access data from GCP
     - Created and maintained technical documentation on [Confluence](www.atlassian.com/software/confluence)
 
