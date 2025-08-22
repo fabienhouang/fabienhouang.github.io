@@ -36,6 +36,7 @@ jobs:
 
       - name: Install node modules
         run: npm install
+        working-directory: ./fabienhouang.github.io
 
       - name: Build
         run: |
