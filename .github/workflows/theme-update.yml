@@ -35,8 +35,9 @@ jobs:
           hugo mod tidy
 
       - name: Install node modules
-        run: npm install
-        working-directory: ./fabienhouang.github.io
+        run: |
+          hugo mod npm pack
+          npm install
 
       - name: Build
         run: |
