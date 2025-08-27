@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
-          ref: main
+          ref: source
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -35,9 +35,7 @@ jobs:
           hugo mod tidy
 
       - name: Install node modules
-        run: |
-          hugo mod npm pack
-          npm install
+        run: npm install
 
       - name: Build
         run: |
@@ -49,6 +47,6 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
-          base: main
+          base: source
           title: Update theme
           labels: automerge
