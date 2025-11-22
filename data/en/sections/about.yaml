@@ -58,43 +58,43 @@ socialLinks:
 badges:
 - type: certification
   name: Google Cloud Certified Professional Data Engineer
-  url: "https://www.credential.net/b60c9856-51a3-4186-b283-12c31e2040af"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35560265"
+  url: "https://www.credly.com/badges/82b8a5c2-79cf-4942-a20e-c98e4fd0d6f7/public_url"
+  badge: "https://images.credly.com/size/340x340/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png"
 
 - type: certification
   name: Google Cloud Certified Professional Cloud Architect
-  url: "https://www.credential.net/a1730ca9-dc69-49b7-ad0a-406da147eedd"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/63463982"
+  url: "https://www.credly.com/badges/7884e868-0e52-4c04-b904-d32d38857cd6/public_url"
+  badge: "https://images.credly.com/size/340x340/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png"
 
 - type: certification
   name: Google Cloud Certified Professional Machine Learning
-  url: "https://google.accredible.com/ed62c6d2-8e3c-478b-bef1-508c117dd10d"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/71712460"
+  url: "https://www.credly.com/badges/c6a3e5b2-f4ad-4c9a-9807-0e785b843cb1/public_url"
+  badge: "https://images.credly.com/size/340x340/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png"
 
 - type: certification
   name: Google Cloud Certified Professional Cloud DevOps Engineer
-  url: "https://google.accredible.com/6e09e83b-5564-4eb8-aeda-d932537f84fd"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72759208"
+  url: "https://www.credly.com/badges/b0767274-902c-492b-990f-61c9af2c06b4/public_url"
+  badge: "https://images.credly.com/size/340x340/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png"
 
 - type: certification
   name: Google Cloud Certified Professional Cloud Database Engineer
-  url: "https://google.accredible.com/dc483d08-dc2f-4d28-b9ac-2ed035452cc9"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83211797"
+  url: "https://www.credly.com/badges/c38b93fc-7b64-4f16-8934-08f5000b2869/public_url"
+  badge: "https://images.credly.com/size/340x340/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png"
 
 - type: certification
   name: Google Cloud Certified Professional Cloud Security Engineer
-  url: "https://google.accredible.com/705e451a-e264-4e29-8890-cb92ecc2214f"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85758948"
+  url: "https://www.credly.com/badges/b5de66b7-e9a1-43bb-86ee-5e0c426dcda7/public_url"
+  badge: "https://images.credly.com/size/340x340/images/4ea0ec5c-6258-4c26-9282-6ed233c0c7ac/image.png"
 
 - type: certification
   name: Google Cloud Certified Professional Cloud Developer
-  url: "https://google.accredible.com/5bf94678-ae64-4a10-961c-096b08935e30"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87066110"
+  url: "https://www.credly.com/badges/3afb2ec7-1c26-406d-b073-0f5dee9bece2/public_url"
+  badge: "https://images.credly.com/size/340x340/images/614465c6-1d80-4ae6-a323-753de224422a/image.png"
 
 - type: certification
   name: Google Cloud Certified Professional Cloud Network Engineer
-  url: "https://google.accredible.com/4b146a2c-09d8-4578-9efc-60fe7840a5c0"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/89113749"
+  url: "https://www.credly.com/badges/e6ba85e8-d484-4dc3-b074-18485c60feb2/public_url"
+  badge: "https://images.credly.com/size/340x340/images/08a802bf-f2fa-44fb-8110-92acf6195738/image.png"
 
 - type: certification
   name: Google Cloud Certified Cloud Digital Leader
