@@ -31,6 +31,8 @@ jobs:
       run: |
         hugo mod npm pack
         npm install --global sass-embedded
+        echo "$(npm prefix -g)/bin" >> "$GITHUB_PATH"
+        sass --version
     - name: Build
       run: hugo --minify
 
