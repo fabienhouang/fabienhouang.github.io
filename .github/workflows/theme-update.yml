@@ -34,8 +34,8 @@ jobs:
           # cleanup go.sum file
           hugo mod tidy
 
-      - name: Install node modules
-        run: npm install --global sass
+      - name: Install Dart Sass Embedded
+        run: npm install --global sass-embedded
 
       - name: Build
         run: |
