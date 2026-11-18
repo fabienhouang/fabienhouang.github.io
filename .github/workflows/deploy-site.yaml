@@ -30,7 +30,7 @@ jobs:
     - name: Install node modules
       run: |
         hugo mod npm pack
-        npm install
+        npm install --global sass-embedded
     - name: Build
       run: hugo --minify
 
